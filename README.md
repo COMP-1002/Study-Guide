@@ -15,7 +15,7 @@ Access the guide: [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guid
 4. Complete the task in the [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guide/wiki)
 <br>To do this, navigate to the appropriate page, then edit the page and insert your work.
 <br>You may have to go to Brightspace to find the problem you are solving. 
-<br>The editing is in markdown (similar to HTML) and the wiki pages should allow for you to upload files by drag-and-drop.
+<br>The editing is in Markdown and the wiki pages should allow for you to upload files by drag-and-drop.
 <br>Make sure you have the problem question, the solution, and explanation (if required as per the job description).
 5. Go back to the [Project ToDo List](https://github.com/orgs/MUN-COMP-1002/projects/1) to mark that task's status as Done.
 6. Profit?
