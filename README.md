@@ -20,7 +20,7 @@ Access the guide: [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guid
 <br>The editing is in Markdown and the wiki pages should allow for you to upload files by drag-and-drop.
 <br>Make sure you have the problem question, the solution, and explanation (if required as per the job description).
 5. Go back to the [Project ToDo List](https://github.com/orgs/MUN-COMP-1002/projects/1) to mark that task's status as Done.
-6. Profit?
+6. Profit? I'll update the marks every Monday.
 
 It is important to note that your Bug Bonus/Study Guide contribution score cannot exceed 2 points.
 <br>You are welcome to contribute as much as you want -- you just cannot get more credit than the 2 points.
