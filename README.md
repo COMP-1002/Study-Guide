@@ -3,7 +3,7 @@
 Welcome to the COMP 1002 Student Study Guide.
 <br>This is a collaborative effort that began in the Spring 2023 term.
 
-Access the guide: [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guide/wiki)
+Access the guide: [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wiki/COMP-1002-Student-Study-Guide)
 
 ## How to get Bonus Marks
 
@@ -14,7 +14,7 @@ Access the guide: [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guid
 3. Assign yourself to an unassigned task marked with the status Todo. 
    <br>Mark its status as In Progress.
    <br>Note: Only one student may complete a task.
-4. Complete the task in the [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guide/wiki)
+4. Complete the task in the [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wiki/COMP-1002-Student-Study-Guide)
 <br>To do this, navigate to the appropriate page, then edit the page and insert your work.
 <br>You may have to go to Brightspace to find the problem you are solving. 
 <br>The editing is in Markdown and the wiki pages should allow for you to upload files by drag-and-drop.
