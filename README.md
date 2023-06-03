@@ -4,7 +4,7 @@ Welcome to the COMP 1002 Student Study Guide.
 <br>This is a collaborative effort that began in the Spring 2023 term.
 <br>The guide contains How-Tos, exercise solutions & hints, and general advice.
 
-Access the guide: [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wiki/COMP-1002-Student-Study-Guide)
+Access the guide: [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/blob/main/Study-Guide.wiki/COMP-1002-Student-Study-Guide.md)
 
 ## How to get Bonus Marks
 
