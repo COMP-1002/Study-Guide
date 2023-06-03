@@ -20,10 +20,9 @@ Welcome to the COMP 1002 Student Study Guide.
    <br>Mark its status as In Progress.
    <br>Note: Only one student may complete a task.
 4. Complete the task in the [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wiki/COMP-1002-Student-Study-Guide)
-<br>To do this, navigate to the appropriate page, then edit the page and insert your work.
-<br>You may have to go to Brightspace to find the problem you are solving. 
+<br>Navigate to the appropriate page on the wiki, then edit the page and insert your work.
 <br>The editing is in Markdown and the wiki pages should allow for you to upload files by drag-and-drop.
-<br>Make sure you have the problem question, the solution, and explanation (if required as per the job description).
+<br>Make sure you have the problem question from Brightspace, the solution, and explanation (if required as per the job description).
 5. Go back to the [Project ToDo List](https://github.com/orgs/MUN-COMP-1002/projects/1) to mark that task's status as Done.
 6. Profit? I'll update the marks at the end of the term.
 <br> You will only get credit for **correct** submissons.
