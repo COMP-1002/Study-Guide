@@ -3,13 +3,13 @@
 Welcome to the COMP 1002 Student Study Guide.
 <br>This is a collaborative effort that began in the Spring 2023 term.
 <br>The guide contains How-Tos, exercise solutions & hints, and general advice.
+<br>Access the guide: [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wiki)
 
 ## Register for GitHub
 [Register for GitHub](https://github.com/signup). Email me your username via Brightspace.
 <br>Make sure your username is university appropriate.
 <br>Put "COMP 1002: GitHub username" as the email title.
 <br>I will try to grant access to those who do this daily.
-<br>After registering, access the guide: [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wiki)
 
 ## How to get Bonus Marks
 
