@@ -22,7 +22,7 @@ Access the guide: [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wi
 <br>Make sure you have the problem question, the solution, and explanation (if required as per the job description).
 5. Go back to the [Project ToDo List](https://github.com/orgs/MUN-COMP-1002/projects/1) to mark that task's status as Done.
 6. Profit? I'll update the marks at the end of the term.
-<br> You will only get credit if your answers are correct.
+<br> You will only get credit for **correct** submissons.
 
 It is important to note that your Bug Bonus/Study Guide contribution score cannot exceed 2 points.
 <br>You are welcome to contribute as much as you want -- you just cannot get more credit than the 2 points.
