@@ -11,7 +11,9 @@ Access the guide: [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guid
    <br>Make sure your username is university appropriate.
    <br>Put "COMP 1002: GitHub User Name" as the email title.
 2. Go to the [Project ToDo List](https://github.com/orgs/MUN-COMP-1002/projects/1) to see the available tasks for extra credit.
-3. Assign yourself to an unassigned task. Mark its status as In Progress.
+3. Assign yourself to an unassigned task marked with the status Todo. 
+   <br>Mark its status as In Progress.
+   <br>Note: Only one student may complete a task.
 4. Complete the task in the [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guide/wiki)
 <br>To do this, navigate to the appropriate page, then edit the page and insert your work.
 <br>You may have to go to Brightspace to find the problem you are solving. 
