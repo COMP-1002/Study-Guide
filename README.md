@@ -14,7 +14,7 @@ Welcome to the COMP 1002 Student Study Guide.
 ## How to get Bonus Marks
 
 1. Make sure you have access to the repository! (See instructions above how to register)
-2. Go to the [Project Todo! List](https://github.com/orgs/MUN-COMP-1002/projects/1) to see the available tasks for extra credit.
+2. Go to the [Project Todo! List](https://github.com/orgs/COMP-1002/projects/1/views/1) to see the available tasks for extra credit.
 3. Assign yourself to an unassigned task marked with the status Todo. 
    <br>Do this with the down-arrow in the Assignee column and enter your username.
    <br>Mark its status as In Progress.
