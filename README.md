@@ -4,6 +4,7 @@ Welcome to the COMP 1002 Student Study Guide.
 <br>This is a collaborative effort that began in the Spring 2023 term.
 <br>The guide contains How-Tos, exercise solutions & hints, and general advice.
 
+## Register for GitHub
 [Register for GitHub](https://github.com/signup). Email me your username via Brightspace.
 <br>Make sure your username is university appropriate.
 <br>Put "COMP 1002: GitHub username" as the email title.
