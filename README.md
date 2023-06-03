@@ -22,3 +22,4 @@ Access the guide: [Study Guide Wiki](https://github.com/MUN-COMP-1002/Study-Guid
 
 It is important to note that your Bug Bonus/Study Guide contribution score cannot exceed 2 points.
 <br>You are welcome to contribute as much as you want -- you just cannot get more credit than the 2 points.
+<br>Additionally, you cannot do more than one task per topic (i.e. only one PL task).
