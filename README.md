@@ -4,16 +4,15 @@ Welcome to the COMP 1002 Student Study Guide.
 <br>This is a collaborative effort that began in the Spring 2023 term.
 <br>The guide contains How-Tos, exercise solutions & hints, and general advice.
 
-Register for GitHub and join this team. Email me your username via Brightspace.
+[Register for GitHub](https://github.com/signup). Email me your username via Brightspace.
 <br>Make sure your username is university appropriate.
 <br>Put "COMP 1002: GitHub username" as the email title.
+<br>I will try to grant access to those who do this daily.
 <br>After registering, access the guide: [Study Guide Wiki](https://github.com/COMP-1002/Study-Guide/wiki)
 
 ## How to get Bonus Marks
 
-1. Register for GitHub and use Brightspace mail to email me your GitHub username. 
-   <br>Make sure your username is university appropriate.
-   <br>Put "COMP 1002: GitHub username" as the email title.
+1. Make sure you have access to the repository! (See instructions above how to register)
 2. Go to the [Project Todo! List](https://github.com/orgs/MUN-COMP-1002/projects/1) to see the available tasks for extra credit.
 3. Assign yourself to an unassigned task marked with the status Todo. 
    <br>Do this with the down-arrow in the Assignee column and enter your username.
